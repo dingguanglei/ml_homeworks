@@ -58,6 +58,17 @@ for (i=1:num_labels)
 [theta] = fmincg (@(t)(lrCostFunction(t, X, (y == i), lambda)),initial_theta, options);
 
 all_theta(i,:)=theta';
+=======
+
+
+
+
+
+
+
+
+
+>>>>>>> 48b1b0b0df0225869dc542788b035de5f1ab82a9
 
 
 

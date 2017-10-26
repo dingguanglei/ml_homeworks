@@ -2,7 +2,11 @@
 
 %  Instructions
 %  ------------
+<<<<<<< HEAD
 % quit
+=======
+% 
+>>>>>>> 48b1b0b0df0225869dc542788b035de5f1ab82a9
 %  This file contains code that helps you get started on the
 %  linear exercise. You will need to complete the following functions 
 %  in this exericse:
